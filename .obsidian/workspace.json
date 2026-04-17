@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25f045db15bd7f55",
+        "id": "19a37839d094d8da",
         "type": "tabs",
         "children": [
           {
-            "id": "efc8dfc31197229a",
+            "id": "4c11b559ed2bda80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-04-16.md",
+                "file": "日记/2026-04-16.md",
                 "mode": "source",
                 "source": false
               },
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -180,13 +180,22 @@
       "bases:新建数据库": false
     }
   },
-  "active": "efc8dfc31197229a",
+  "active": "4c11b559ed2bda80",
   "lastOpenFiles": [
-    "待办.md",
-    "Markdown使用教程.md",
-    "2026-04-16.md",
+    "日记/2026-04-17.md",
+    "日记/心情.md",
     "哈佛公开课积极心理学/积极心理学.md",
+    "待办.md",
+    "未命名.canvas",
+    "Markdown使用教程.md",
+    "Python/python笔记.md",
+    "日记/2026-04-16.md",
+    "日记/2026.4.15以及之前.md",
+    "绿植/招财树.md",
+    "绿植/发财树.md",
+    "未命名.base",
     "Obsidian/Obsidian 关系图谱.md",
+    "绿植",
     "哈佛公开课积极心理学/积极心理学讲义（网易字幕版） (1).md",
     "哈佛公开课积极心理学"
   ]
