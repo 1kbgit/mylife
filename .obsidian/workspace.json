@@ -11,10 +11,14 @@
             "id": "efc8dfc31197229a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "2026-04-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-16"
             }
           }
         ]
@@ -178,7 +182,10 @@
   },
   "active": "efc8dfc31197229a",
   "lastOpenFiles": [
-    "哈佛公开课积极心理学/积极心理学讲义.md",
+    "待办.md",
+    "Markdown使用教程.md",
+    "2026-04-16.md",
+    "哈佛公开课积极心理学/积极心理学.md",
     "Obsidian/Obsidian 关系图谱.md",
     "哈佛公开课积极心理学/积极心理学讲义（网易字幕版） (1).md",
     "哈佛公开课积极心理学"
