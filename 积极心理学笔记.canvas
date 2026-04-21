@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d1b679e6ef501699","type":"text","text":"[[积极心理学]]","x":-136,"y":-56,"width":136,"height":50},
+		{"id":"a28e077ee6dcbd4c","type":"text","text":"心理学","x":60,"y":-56,"width":120,"height":50}
+	],
+	"edges":[
+		{"id":"512406a5dd4b72d5","fromNode":"d1b679e6ef501699","fromSide":"right","toNode":"a28e077ee6dcbd4c","toSide":"left"}
+	]
+}
