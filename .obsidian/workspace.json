@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9c0bfb3c33324f5",
+        "id": "19a37839d094d8da",
         "type": "tabs",
         "children": [
           {
-            "id": "b70b077c6c2d439f",
+            "id": "4c11b559ed2bda80",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -90,17 +90,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Obsidian 关系图谱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Obsidian 关系图谱 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -109,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Obsidian 关系图谱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Obsidian 关系图谱 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -152,17 +150,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Obsidian 关系图谱.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian 关系图谱 的大纲"
+              "title": "大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,35 +176,33 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b70b077c6c2d439f",
+  "active": "4c11b559ed2bda80",
   "lastOpenFiles": [
-    "日记/心情.md",
+    "日记/2026-04-26.md",
+    "日记/2026-04-25.md",
+    "日记/2026-04-24.md",
     "日记/2026-04-23.md",
     "日记/2026-04-22.md",
-    "日记/2026-04-20.md",
-    "日记/2026.4.15以及之前.md",
-    "待办.md",
-    "扣子.md",
-    "健身.md",
-    "日记.md",
-    "日记/2026-04-17.md",
-    "日记/2026-04-16.md",
-    "日记/2026-04-21.md",
-    "日记/2026-04-19.md",
-    "日记/2026-04-18.md",
-    "绿植/石香.md",
+    "日记/心情.md",
     "绿植/招财树.md",
-    "绿植/发财树.md",
+    "日记/2026-04-19.md",
     "积极心理学笔记.canvas",
-    "哈佛公开课积极心理学/积极心理学.md",
-    "扣子，微信阅读，日记.md",
-    "Obsidian/Obsidian 关系图谱.md",
-    "未命名 2.canvas",
-    "未命名.base",
-    "未命名 1.canvas",
+    "日记/2026-04-21.md",
+    "日记/2026-04-20.md",
+    "绿植/石香.md",
+    "待办.md",
+    "绿植/发财树.md",
     "小目标/倒立.md",
+    "日记/2026-04-18.md",
+    "日记/2026-04-16.md",
+    "日记/2026-04-17.md",
+    "哈佛公开课积极心理学/积极心理学.md",
+    "未命名.canvas",
     "Markdown使用教程.md",
     "Python/python笔记.md",
+    "日记/2026.4.15以及之前.md",
+    "未命名.base",
+    "Obsidian/Obsidian 关系图谱.md",
     "绿植",
     "哈佛公开课积极心理学/积极心理学讲义（网易字幕版） (1).md",
     "哈佛公开课积极心理学"
