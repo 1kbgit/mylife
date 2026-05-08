@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "19a37839d094d8da",
+        "id": "ff3cdbb89db5aece",
         "type": "tabs",
         "children": [
           {
-            "id": "4c11b559ed2bda80",
+            "id": "411c0d467d2119c6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 366.5085258483887
   },
   "right": {
     "id": "53a5872120871b72",
@@ -90,16 +90,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian/Obsidian 关系图谱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Obsidian 关系图谱 的反向链接列表"
             }
           },
           {
@@ -150,15 +151,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Obsidian/Obsidian 关系图谱.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Obsidian 关系图谱 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,35 +179,41 @@
       "bases:新建数据库": false
     }
   },
-  "active": "4c11b559ed2bda80",
+  "active": "ef301d5fbe8ed801",
   "lastOpenFiles": [
+    "日记/一.md",
+    "日记/2026-05-07.md",
+    "日记/2026-05-09.md",
+    "日记/2026-05-08.md",
+    "未命名.canvas",
+    "待办.md",
+    "人生信条.md",
+    "Obsidian/Obsidian 关系图谱.md",
+    "哈佛公开课积极心理学/积极心理学.md",
+    "哈佛公开课积极心理学/积极心理学笔记.canvas",
+    "日记/心情.md",
+    "Obsidian/上头Obsidian：手把手教你用AI做好知识管理.pdf",
+    "Markdown使用教程.md",
+    "Obsidian/上头Obsidian：手把手教你用AI做好知识管理.md",
     "日记/2026-04-26.md",
     "日记/2026-04-25.md",
     "日记/2026-04-24.md",
     "日记/2026-04-23.md",
     "日记/2026-04-22.md",
-    "日记/心情.md",
-    "绿植/招财树.md",
-    "日记/2026-04-19.md",
-    "积极心理学笔记.canvas",
-    "日记/2026-04-21.md",
     "日记/2026-04-20.md",
-    "绿植/石香.md",
-    "待办.md",
-    "绿植/发财树.md",
-    "小目标/倒立.md",
-    "日记/2026-04-18.md",
-    "日记/2026-04-16.md",
-    "日记/2026-04-17.md",
-    "哈佛公开课积极心理学/积极心理学.md",
-    "未命名.canvas",
-    "Markdown使用教程.md",
-    "Python/python笔记.md",
     "日记/2026.4.15以及之前.md",
+    "扣子.md",
+    "健身.md",
+    "日记.md",
+    "日记/2026-04-17.md",
+    "日记/2026-04-16.md",
+    "日记/2026-04-21.md",
+    "日记/2026-04-19.md",
+    "日记/2026-04-18.md",
+    "未命名 2.canvas",
     "未命名.base",
-    "Obsidian/Obsidian 关系图谱.md",
+    "未命名 1.canvas",
     "绿植",
-    "哈佛公开课积极心理学/积极心理学讲义（网易字幕版） (1).md",
     "哈佛公开课积极心理学"
   ]
 }
